@@ -16,10 +16,10 @@ class Solution {
 
         //loop
         int trapwater=0;
-        int waterlevel[] = new int [height.length];
+        
         for (int i = 0; i< height.length; i++){
-            waterlevel[i]= Math.min(left_max[i], right_max[i]);
-            trapwater += waterlevel[i]- height[i];
+            int waterlevel= Math.min(left_max[i], right_max[i]);
+            trapwater += waterlevel- height[i];
         }
         return trapwater;
         
