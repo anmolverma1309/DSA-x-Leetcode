@@ -37,7 +37,7 @@ class Solution {
             endcol--;
             
             
-        }System.out.println();
+        }
         
 
         return ans;
