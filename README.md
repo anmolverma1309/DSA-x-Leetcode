@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
