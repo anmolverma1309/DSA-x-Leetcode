@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
