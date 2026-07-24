@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
