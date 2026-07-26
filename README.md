@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -137,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
