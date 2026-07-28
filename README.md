@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0724-find-pivot-index) |
+| [1089-duplicate-zeros](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
