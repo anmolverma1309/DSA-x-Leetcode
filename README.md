@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
