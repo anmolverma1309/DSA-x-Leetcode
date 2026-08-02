@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
