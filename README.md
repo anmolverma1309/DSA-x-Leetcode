@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
