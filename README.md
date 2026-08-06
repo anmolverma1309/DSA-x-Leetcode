@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0724-find-pivot-index) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0867-transpose-matrix) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
