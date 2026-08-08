@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0498-diagonal-traverse) |
+| [0561-array-partition](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0724-find-pivot-index) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search Tree
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
