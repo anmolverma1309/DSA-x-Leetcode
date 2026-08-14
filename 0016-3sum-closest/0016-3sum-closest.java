@@ -12,8 +12,10 @@ class Solution {
                 }
                 if(sum<target){
                     i++;
-                }else{
+                }else if(sum > target){
                     n--;
+                }else{
+                    return sum;
                 }
             }
         }return initial;
