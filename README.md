@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -258,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Game Theory
@@ -282,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
