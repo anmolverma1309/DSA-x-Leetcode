@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0561-array-partition) |
 | [2029-stone-game-ix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Game Theory
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
