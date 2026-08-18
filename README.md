@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
