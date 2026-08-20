@@ -13,7 +13,7 @@ class Solution {
                 int sum1 = nums3[i] + nums4[j];
                 int target = -sum1;
                 if(hs.containsKey(target)){
-                    count += hs.get(target);
+                    count += hs.getOrDefault(target, 0);
                 }
             }
         }
