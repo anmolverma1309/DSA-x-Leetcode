@@ -1,6 +1,5 @@
 class Solution {
     public int minimumDeletions(int[] nums) {
-        HashMap<Integer, Integer> hs = new HashMap<>();
         int max = Integer.MIN_VALUE;
         int minidx = -1;
         int maxidx = -1;
@@ -11,17 +10,14 @@ class Solution {
         if(nums.length == 2){
             return 2;
         }
-        for(int i = 0; i< nums.length; i++){
-            hs.put(nums[i], i);
-        }
-        for(int x: hs.keySet()){
-            if(x < min){
-                min = x;
-                minidx = hs.get(x);
+        for(int i = 0; i<nums.length; i++){
+            if(nums[i] < min){
+                min = nums[i];
+                minidx = i;
             }
-            if(x>max){
-                max = x;
-                maxidx = hs.get(x);
+            if(nums[i]>max){
+                max = nums[i];
+                maxidx = i;
             }
         }
         int left = Math.max(maxidx+1, minidx +1);
