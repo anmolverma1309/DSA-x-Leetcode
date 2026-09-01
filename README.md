@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0018-4sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
