@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
