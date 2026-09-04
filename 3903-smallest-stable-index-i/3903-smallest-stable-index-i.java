@@ -1,8 +1,6 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        if(nums.length == 1){
-            return 0;
-        }
+        
         int min = Integer.MAX_VALUE;
         int arr[] = new int [nums.length];
         for(int i = nums.length-1; i>= 0; i--){
