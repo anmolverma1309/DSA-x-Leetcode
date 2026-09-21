@@ -1,17 +1,17 @@
 class Solution {
-    private int binary(int nums[], int start, int end, int target){
-        if(start>end) return -1;
-        int mid = start+(end-start)/2;
-        if(nums[mid] == target) return mid;
-        if(nums[mid] > target){
-            return binary (nums, start,mid-1, target);
-        }
-        return binary(nums, mid+1, end, target);
-    }
-    
     public int search(int[] nums, int target) {
-        int ans = binary(nums, 0, nums.length-1, target);
-        return ans;
+        int s = 0;
+        int e = nums.length-1;
+        while(s<= e){
+            int mid = s+(e-s)/2;
+            if(nums[mid] == target) return mid;
+            else if(nums[mid] > target){
+                e = mid-1;
+            }
+            else{
+                s = mid+1;
+            }
+        } 
+        return -1;
     }
-    
 }
