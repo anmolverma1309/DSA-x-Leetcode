@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0709-to-lower-case) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
