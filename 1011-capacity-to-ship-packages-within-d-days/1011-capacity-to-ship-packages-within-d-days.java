@@ -18,7 +18,7 @@ class Solution {
         int capacity = 0;
         for(int weight: weights){
             if(capacity+weight > mid){
-                ++days;
+                days++;
                 capacity = weight;
             }else {
                 capacity += weight;
