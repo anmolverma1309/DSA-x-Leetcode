@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
