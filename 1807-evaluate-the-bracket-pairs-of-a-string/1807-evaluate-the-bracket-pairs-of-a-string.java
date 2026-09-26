@@ -5,19 +5,17 @@ class Solution {
             hs.put(knowledge.get(i).get(0), knowledge.get(i).get(1));
 
         }
-        
         StringBuilder ans = new StringBuilder();
         int i = 0;
         while(i<s.length()){
             if(s.charAt(i) == '('){
-                i++;
-                StringBuilder sb = new StringBuilder();
+                int start = ++i;
                 while(s.charAt(i) != ')'){
-                    sb.append(s.charAt(i));
                     i++;
                 }
-                if(hs.containsKey(sb.toString())){
-                    ans.append(hs.get(sb.toString()));
+                String val = s.substring(start,i);
+                if(hs.containsKey(val)){
+                    ans.append(hs.get(val));
                 }else{
                     ans.append('?');
                 }
