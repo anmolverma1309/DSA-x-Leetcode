@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0877-stone-game) |
 ## Stack
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0561-array-partition) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0560-subarray-sum-equals-k) |
