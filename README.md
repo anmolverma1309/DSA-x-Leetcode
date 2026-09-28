@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
