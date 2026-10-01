@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
