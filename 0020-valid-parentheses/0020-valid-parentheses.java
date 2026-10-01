@@ -13,7 +13,7 @@ class Solution {
                 if((curr == ')' &&  ch == '(') || (curr == '}' &&ch == '{') || (curr ==']' && ch =='[')){
                     st.pop();
                 }
-                else if(curr !=  st.peek()){
+                else{
                     return false;
                 }
             }
