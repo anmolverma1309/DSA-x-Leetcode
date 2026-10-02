@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Matrix
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
