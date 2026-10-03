@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
