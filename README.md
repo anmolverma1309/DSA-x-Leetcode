@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -655,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
