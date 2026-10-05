@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
