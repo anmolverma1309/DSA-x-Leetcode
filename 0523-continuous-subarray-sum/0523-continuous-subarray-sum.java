@@ -6,22 +6,20 @@ class Solution {
         if(nums.length< 2){
             return false;
         }
-        for(int i =0; i<nums.length; i++){
-            sum += nums[i];
-            arr[i] = sum%k;
-        }
+        int req = 0;
         HashMap<Integer, Integer> hs = new HashMap<>();
         hs.put(0,-1);
         for(int i =0; i<nums.length; i++){
-            if(hs.containsKey(arr[i])){
-                int newidx = i - hs.get(arr[i]);
+            sum += nums[i];
+            req = sum % k;
+            if(hs.containsKey(req)){
+                int newidx = i - hs.get(req);
                 if(newidx >= 2){
                     return true;
                 }
             }else{
-                hs.put(arr[i], i);
+                hs.put(req, i);
             }
-            
         }
         return false;
         
