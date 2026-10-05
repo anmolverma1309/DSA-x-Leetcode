@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1089-duplicate-zeros) |
+| [1124-longest-well-performing-interval](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1124-longest-well-performing-interval](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1124-longest-well-performing-interval](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1124-longest-well-performing-interval](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
