@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -694,11 +695,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Memoization
 |  |
 | ------- |
