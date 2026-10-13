@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0856-score-of-parentheses) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
