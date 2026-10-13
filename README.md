@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0179-largest-number) |
