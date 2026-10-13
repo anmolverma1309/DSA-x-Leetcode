@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1920-build-array-from-permutation) |
