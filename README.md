@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
