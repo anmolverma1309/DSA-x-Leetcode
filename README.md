@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2029-stone-game-ix) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
