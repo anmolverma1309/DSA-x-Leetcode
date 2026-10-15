@@ -5,7 +5,7 @@ class Solution {
         for(int i =0; i< nums2.length; i++){
             hs.put(nums2[i], i);
         }
-        for(int i = 0; i<ans.length; i++) ans[i] = -1;
+        // for(int i = 0; i<ans.length; i++) ans[i] = -1;
         for(int i = 0; i < nums1.length; i++){
             int num = nums1[i];
             int idx = hs.get(num);
@@ -17,6 +17,8 @@ class Solution {
                 if(nums2[j] > num){
                     ans[i] = nums2[j];
                     break;
+                }else{
+                    ans[i] = -1;
                 }
             }
         }
