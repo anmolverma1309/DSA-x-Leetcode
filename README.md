@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0260-single-number-iii) |
