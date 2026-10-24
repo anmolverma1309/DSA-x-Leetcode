@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0735-asteroid-collision) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0415-add-strings](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0633-sum-of-square-numbers) |
