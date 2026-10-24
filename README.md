@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0287-find-the-duplicate-number) |
