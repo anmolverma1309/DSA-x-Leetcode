@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1124-longest-well-performing-interval](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
@@ -876,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
 | ------- |
