@@ -1,5 +1,5 @@
 class Solution {
-    private int path(int i, int j, int m, int n, int dp[][]){
+    private int path(int m, int n, int dp[][]){
         for(int x = m-1; x>=0; x--){
             for(int y = n-1; y>=0; y--){
                 if(x == m-1 && y == n-1){
@@ -15,6 +15,6 @@ class Solution {
     }
     public int uniquePaths(int m, int n) {
         int dp[][] = new int[m][n];
-        return path(0,0,m,n,dp);
+        return path(m,n,dp);
     }
 }
