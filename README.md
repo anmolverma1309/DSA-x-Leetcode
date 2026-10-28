@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0498-diagonal-traverse) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0739-daily-temperatures) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0704-binary-search) |
@@ -949,4 +953,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
