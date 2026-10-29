@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
