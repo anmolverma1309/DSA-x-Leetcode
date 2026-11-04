@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bucket Sort
 |  |
 | ------- |
