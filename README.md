@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anmolverma1309/DSA-x-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
